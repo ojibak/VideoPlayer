@@ -1,0 +1,17 @@
+{
+  "appInfos": {
+    "appName": "视频",
+    "applicationId": "com.liuzhenlin.videoplayer",
+    "minSdkVersion": 14,
+    "targetSdkVersion": 27,
+    "versionCode": 13,
+    "versionName": "8.3.7",
+    "appLink": "https://raw.githubusercontent.com/ApksHolder/VideoPlayer/master/app-release.apk",
+    "updateLogs": [
+      "1.加载或刷新视频时显示加载或刷新动画",
+      "2.修复在部分手机上(vivo)时，视频缩略图的显示问题",
+      "3.修复少数视频在开始播放时，画面显示的比例问题"
+    ]
+  },
+  "author": "刘振林"
+}
