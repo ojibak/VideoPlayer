@@ -4,13 +4,17 @@
     "applicationId": "com.liuzhenlin.videoplayer",
     "minSdkVersion": 14,
     "targetSdkVersion": 27,
-    "versionCode": 13,
-    "versionName": "8.3.7",
+    "versionCode": 14,
+    "versionName": "8.4.24",
     "appLink": "https://raw.githubusercontent.com/ApksHolder/VideoPlayer/master/app-release.apk",
     "updateLogs": [
-      "1.加载或刷新视频时显示加载或刷新动画",
-      "2.修复在部分手机上(vivo)时，视频缩略图的显示问题",
-      "3.修复少数视频在开始播放时，画面显示的比例问题"
+      "1.缩短视频启动时的加载时间，减少用户等待",
+      "2.修复视频缩略图加载后不能及时刷新显示的bug",
+      "3.调整重命名视频时的交互方式，操作更加便捷",
+      "4.修复在视频播放时关闭手机的自动旋转后再次开启，播放界面自动旋转失效的问题",
+      "5.全新侧滑菜单的加入，新增若干功能",
+      "6.用户可以反馈使用中遇到的bug或提出改进建议",
+      "7.适配从右向左的布局方向"
     ]
   },
   "author": "刘振林"
