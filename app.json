@@ -4,17 +4,13 @@
     "applicationId": "com.liuzhenlin.videoplayer",
     "minSdkVersion": 14,
     "targetSdkVersion": 27,
-    "versionCode": 14,
-    "versionName": "8.4.24",
+    "versionCode": 16,
+    "versionName": "8.4.30",
     "appLink": "https://raw.githubusercontent.com/ApksHolder/VideoPlayer/master/app-release.apk",
     "updateLogs": [
-      "1.缩短视频启动时的加载时间，减少用户等待",
-      "2.修复视频缩略图加载后不能及时刷新显示的bug",
-      "3.调整重命名视频时的交互方式，操作更加便捷",
-      "4.修复在视频播放时关闭手机的自动旋转后再次开启，播放界面自动旋转失效的问题",
-      "5.全新侧滑菜单的加入，新增若干功能",
-      "6.用户可以反馈使用中遇到的bug或提出改进建议",
-      "7.适配从右向左的布局方向"
+      "1.修复在解析视频数据时，部分格式的视频可能导致应用闪退的问题",
+      "2.修复在Android 8.0及以上版本的系统，下载安装包完成后，不能自动跳转到应用安装界面的问题",
+      "3.解决首页列表和右滑菜单在某些情况下存在的滑动冲突问题及优化体验"
     ]
   },
   "author": "刘振林"
